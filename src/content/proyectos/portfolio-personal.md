@@ -3,7 +3,7 @@ title: "Portfolio personal con Astro"
 description: "Este mismo sitio: diseñado y construido paso a paso junto a una IA, pensado desde el principio para ser fácil de escalar con nuevos proyectos."
 date: 2026-09-26
 tags: ["Astro", "Tailwind CSS", "TypeScript"]
-repoUrl: "https://github.com/tu-usuario/portfolio"
+repoUrl: "https://github.com/AitorArcas/AitorArcas.github.io"
 ---
 
 ## El problema
