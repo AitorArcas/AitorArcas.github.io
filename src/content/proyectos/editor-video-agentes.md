@@ -14,6 +14,8 @@ edición lo hiciera un sistema y quedarme yo solo con la revisión final.
 
 ## Cómo funciona
 
+<iframe src="/media/editor-video-agentes/animacion.html" title="Animación del flujo del editor de vídeo" loading="lazy" sandbox="allow-scripts" style="width:100%;  aspect-ratio:16/9;border:0;border-radius:8px"></iframe>
+
 Basta con soltar un vídeo en una carpeta. A partir de ahí:
 
 - Un script en Python (`watcher.py`) vigila la carpeta y detecta archivos
